@@ -27,7 +27,6 @@ const App = () => (
       <AddScheduleDialog />
       <CurrentScheduleDialog />
     </MuiPickersUtilsProvider>
-    
   </Provider>
 )
 
